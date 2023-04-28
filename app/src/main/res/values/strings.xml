@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Forecast</string>
+
+    <string name="search_edit_text_label">City name</string>
+    <string name="search">Search</string>
+    <string name="empty_screen">Enter city name</string>
+    <string name="retry_button">Retry</string>
+    <string name="not_accurate_data">Not accurate data</string>
+</resources>
